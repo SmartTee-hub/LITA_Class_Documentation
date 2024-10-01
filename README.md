@@ -1,5 +1,14 @@
 # LITA_Class_Documentation
 ### Project Title: E commerce Sales Analysis
+
+{Project Overview}(#project-Overview)
+
+Data Sources
+
+### Tools Used
+
+Data Cleaning and preparations
+
 #### Project Overview
 ```
 This data Analysis project aims to geerate insight into the sales prformance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tellcompelling stories around
@@ -173,3 +182,12 @@ UPDATE EMPLOYEE
 SET State_of_Origin = 'Ekiti'
 where staffid = 'AB268'[Uploading SQL 1.sql…]()
 SYNTAX
+
+😆 just :
+
+💻
+
+to create table
+|heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
