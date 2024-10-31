@@ -11,12 +11,9 @@ Data Cleaning and preparations
 
 [Data Analysis](#Data-Analysis)
 #### Project Overview
-```
-This data Analysis project aims to geerate insight into the sales prformance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tellcompelling stories around
-press enter to create a space
-
+Through my Incubator Hub experience, I aim to deepen my understanding of Excel for advanced data manipulation and visualization techniques, master SQL for efficient data querying and transformation, and become proficient in Power BI for creating interactive dashboards and insightful data visualizations.
  ### Data Sources
-```
+
  The primary source of date used here is Data sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site 
  
 ### Tools Used
