@@ -17,14 +17,31 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
  The primary source of Data used here is Data sale.csv and this is an open source data that was given by the Incubator Hub  
  
 ### Tools Used
-- Microsoft Excel [Download here](https://www.microsoft.com)
-  1. for data cleaning
-  2. For anlysing
-  3. for data visualization
+- Microsoft Excel is a versatile tool used for a wide range of numerical tasks, including: [Download here](https://www.microsoft.com)
+  1. for Data cleaning
+  2. For Data Analysis 
+  3. Financial Modeling
+  4. For Data Management
+  5. for Data visualization
      
-- SQL - Structured Query Language for querying of data
-- Github for portfolio Building
-- Power BI - Business Intelligence[Download here](http://www.theaxapta.com/2023/)
+- SQL - Structured Query Language SQL is a powerful language for managing and manipulating relational databases. Here are some of its key uses:
+   1. Data Retrieval
+   2. Data Manipulation
+   3. Data Definition
+   4. Data Control
+- Github is a popular platform for software development and collaboration and is also for portfolio Building. Here are some of its key uses:
+  1. Version Control
+  2. Collaboration
+  3. Project Management
+  4. Open Source Development
+  5. Learning and Experimentation
+- Power BI - is a powerful Business Intelligence tool used for:
+  1. Data Integration
+  2. Data Transformation
+  3. Data Modeling
+  4. Data Visualization
+  5. Data Analysis
+  6. Data Storytelling
 
   ### Data Cleaning and preparations
   ```
