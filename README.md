@@ -14,7 +14,7 @@ Data Cleaning and preparations
 Through my Incubator Hub experience, I aim to deepen my understanding of Excel for advanced data manipulation and visualization techniques, master SQL for efficient data querying and transformation, and become proficient in Power BI for creating interactive dashboards and insightful data visualizations.
 
  ### Data Sources
- The primary source of Data used here is Data sale.csv and this is an open source data that was given by the Incubator Hub  
+ The primary source of Data used here is Data sale.csv and this is an open source data that was given by the Incubator Hub.  
  
 ### Tools Used
 - Microsoft Excel is a versatile tool used for a wide range of numerical tasks, including: [Download here](https://www.microsoft.com)
@@ -22,26 +22,28 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
   2. For Data Analysis 
   3. Financial Modeling
   4. For Data Management
-  5. for Data visualization
+  5. for Data visualization.
      
-- SQL - Structured Query Language SQL is a powerful language for managing and manipulating relational databases. Here are some of its key uses:
+- SQL - Structured Query Language SQL is a powerful language for managing and manipulating relational databases. Here are some of its key uses: [Download here](https://www.microsoft.com/en-us/sql-server/sql-server)
    1. Data Retrieval
    2. Data Manipulation
    3. Data Definition
-   4. Data Control
-- Github is a popular platform for software development and collaboration and is also for portfolio Building. Here are some of its key uses:
+   4. Data Control.
+      
+- Github is a popular platform for software development and collaboration and is also for portfolio Building. Here are some of its key uses:[Github website here](https://github.com/)
   1. Version Control
   2. Collaboration
   3. Project Management
   4. Open Source Development
-  5. Learning and Experimentation
-- Power BI - is a powerful Business Intelligence tool used for:
+  5. Learning and Experimentation.
+     
+- Power BI - is a powerful Business Intelligence tool used for:  [Download here](https://powerbi.microsoft.com/en-us/desktop/)
   1. Data Integration
   2. Data Transformation
   3. Data Modeling
   4. Data Visualization
   5. Data Analysis
-  6. Data Storytelling
+  6. Data Storytelling.
 
   ### Data Cleaning and preparations
   ```
