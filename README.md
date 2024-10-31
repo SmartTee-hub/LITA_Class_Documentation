@@ -12,9 +12,9 @@ Data Cleaning and preparations
 [Data Analysis](#Data-Analysis)
 #### Project Overview
 Through my Incubator Hub experience, I aim to deepen my understanding of Excel for advanced data manipulation and visualization techniques, master SQL for efficient data querying and transformation, and become proficient in Power BI for creating interactive dashboards and insightful data visualizations.
- ### Data Sources
 
- The primary source of date used here is Data sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site 
+ ### Data Sources
+ The primary source of Data used here is Data sale.csv and this is an open source data that was given by the Incubator Hub  
  
 ### Tools Used
 - Microsoft Excel [Download here](https://www.microsoft.com)
