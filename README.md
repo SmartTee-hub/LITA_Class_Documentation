@@ -24,6 +24,7 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
      
 - SQL - Structured Query Language for querying of data
 - Github for portfolio Building
+- Power BI - Business Intelligence[Download here](http://www.theaxapta.com/2023/)
 
   ### Data Cleaning and preparations
   ```
