@@ -1,5 +1,5 @@
 # LITA_Class_Documentation
-### Project Title: E commerce Sales Analysis
+### Project Title:The Journey of my Data Analysis
 
 [Project Overview](#project-Overview)
 
