@@ -53,8 +53,7 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
  
 
  ### Exploratory Data Analysis
- ```
-Eda involvd the exploring of the data to answer some questions about the data such as;
+EDA involved the exploring of the data to answer some questions about the data such as;
 - what is the overall sales trend
 - which product are top sellers
 - what are the products on peak sales?
