@@ -46,11 +46,10 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
   6. Data Storytelling.
 
   ### Data Cleaning and preparations
-  ```
-  In the initial pase of the data claensing and preparation s, we perform the following action;
+  In the initial phase of the data claensing and preparations, we perform the following action;
   1. Data loading and inspection
   2. handling missing variables
-  3. Data cleansing and formatting
+  3. Data cleansing and formatting.
  
 
  ### Exploratory Data Analysis
