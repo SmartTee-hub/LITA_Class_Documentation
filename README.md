@@ -11,12 +11,15 @@ Data Cleaning and preparations
 
 [Data Analysis](#Data-Analysis)
 #### Project Overview
+---
 Through my Incubator Hub experience, I aim to deepen my understanding of Excel for advanced data manipulation and visualization techniques, master SQL for efficient data querying and transformation, and become proficient in Power BI for creating interactive dashboards and insightful data visualizations.
 
  ### Data Sources
+ ---
  The primary source of Data used here is Data sale.csv and this is an open source data that was given by the Incubator Hub.  
  
 ### Tools Used
+---
 - Microsoft Excel is a versatile tool used for a wide range of numerical tasks, including: [Download here](https://www.microsoft.com)
   1. for Data cleaning
   2. For Data Analysis 
@@ -46,6 +49,7 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
   6. Data Storytelling.
 
   ### Data Cleaning and preparations
+  ---
   In the initial phase of the data claensing and preparations, we perform the following action;
   1. Data loading and inspection
   2. handling missing variables
@@ -53,18 +57,19 @@ Through my Incubator Hub experience, I aim to deepen my understanding of Excel f
  
 
  ### Exploratory Data Analysis
+ ---
 EDA involved the exploring of the data to answer some questions about the data such as;
 - what is the overall sales trend
 - which product are top sellers
 - what are the products on peak sales?
 
 ### Data Analysis
-```
-This is where we include some basic liunes of code pr queries or even some of the DAX expressions used during your analysis;
+---
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ``` SQL
 SELECT * FROM TABLE1
-WHERE CONDITIIN = TRUE
+WHERE CONDITION = TRUE
 ```
 ### SQL create database LITA_DB
 CREATE TABLE Employee (
