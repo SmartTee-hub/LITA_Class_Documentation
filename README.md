@@ -10,6 +10,7 @@ Tools Used
 Data Cleaning and preparations
 
 [Data Analysis](#Data-Analysis)
+
 #### Project Overview
 ---
 Through my Incubator Hub experience, I aim to deepen my understanding of Excel for advanced data manipulation and visualization techniques, master SQL for efficient data querying and transformation, and become proficient in Power BI for creating interactive dashboards and insightful data visualizations.
@@ -95,6 +96,12 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ```
 
 ### Data Visualization
+![pivot](https://github.com/user-attachments/assets/4df9e335-03cf-4a35-b50c-c1f671a393f2)
+![pivot 2](https://github.com/user-attachments/assets/9b56a2f2-c1be-4224-a75a-2920a48a7942)
+![Graph](https://github.com/user-attachments/assets/19171929-918d-41ca-91a0-1d811798174b)
+![Table 1](https://github.com/user-attachments/assets/fdddaa27-1c00-4995-ac03-e2eb6afb4b73)
+![PowerBI HR](https://github.com/user-attachments/assets/da9ee560-6fbd-4ce4-b0d9-e6843ae851c7)
+![powerBI ](https://github.com/user-attachments/assets/69eb6376-f78d-4786-9415-4db11e710a9d)
 
 
 😆 just :
