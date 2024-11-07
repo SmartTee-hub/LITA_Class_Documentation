@@ -5,9 +5,10 @@
 
 [Data Sources](#Data-Sources)
 
-Tools Used
+[Tools Used](Tools-Used)
 
-Data Cleaning and preparations
+[Data Cleaning and preparations](Data-Cleaning-and-preparations)
+
 
 [Data Analysis](#Data-Analysis)
 
